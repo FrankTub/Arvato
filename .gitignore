@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.git/
+AZDIAS_Feature_Summary.csv
+azdias_predictions.csv
+customer_predictions.csv
+Project*.zip
+Udacity_AZDIAS_Subset.csv
+Udacity_CUSTOMERS_Subset.csv
